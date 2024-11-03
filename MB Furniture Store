@@ -1,0 +1,41 @@
+MB Furniture is a startup furniture company that has been in existence for about five years. 
+The stakeholders and management of the company have come to realize that the company hardly makes any profit despite the relatively large sales made each year. 
+This has led to the company seeking the help of a data analyst to help find out what the problem is and provide recommendations to increase the overall business performance.
+
+
+The datasets used for this project were collected directly from the company. They were processed by cleaning them whilst still making sure that their integrity was not compromised. 
+The data was then extracted, transformed, and loaded into the Power BI platform where the analysis took place.
+
+
+The following insights were generated:
+
+The total number of customers that have patronized MB Furniture from 2014 to 2017 is 707;
+
+Total sales over the past four years is $742k;
+
+The total profit made is $18.5k;
+
+The year with the highest profit is 2016 with a total profit of $7k while 2017 made the highest sales of $215k;
+
+The profit margin is 2.49% which is extremely low and disappointing.
+
+The sub-category, chairs makes the highest total sales followed by tables, bookcases, and furnishings;
+
+The consumer segment contributes the highest to sales followed by the corporate and home office segments.
+
+The western region contributes the most to sales while the southern region contributes the least.
+
+The total sales start to pick up by the end of the third quarter (September) but dip at the beginning of the fourth quarter (October) and pick up towards the end of the year;
+
+February proves to be the month with the least sales almost every year.
+
+The most profitable sub-categories are chairs and furnishings while the sub-categories bookcases and tables are unprofitable.
+
+The western region contributes the most profit while the central region contributes the least. However, the southern region has the lowest sales while the Western region has the highest sales.
+
+The standard class shipment is the most preferred mode of shipment while the same day shipment is the least preferred.
+
+The orders start to increase in August, decline in October, but increase until the end of the year.
+
+
+The insights generated were able to enhance the generation of some recommendations which are explained in the powerpoint document attached.
